@@ -1,0 +1,134 @@
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Taikhoan.Account_Management.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Taikhoan.Login.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Taikhoan.Registration.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Taikhoan.RePasss.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+c:\users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+C:\Users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2010\Projects\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Account_Management.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Login.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Registration.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.RePasss.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+C:\Users\LaptopAZ.vn\Desktop\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Account_Management.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Login.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Registration.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.RePasss.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_Nhanvien.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_PhongBan.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_Nhanvien.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_PhongBan.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Account_Management.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Login.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Registration.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.RePasss.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\QLKhachSan\QLKhachSan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_Nhanvien.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_PhongBan.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Account_Management.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Login.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Registration.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.RePasss.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_Nhanvien.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_PhongBan.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Account_Management.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Login.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Registration.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.RePasss.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\RdlCompile.cache
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\RdlCompile.compiled
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+C:\Users\LaptopAZ.vn\Desktop\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.exe
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.pdb
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.exe
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\bin\Debug\QLKhachSan.pdb
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.AssemblyReference.cache
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_Nhanvien.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Baocao.Baocao_PhongBan.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.form_Main.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Nhanvien.Nhanvien_Manager.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Phongban.Phongban_Manager.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Properties.Resources.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Account_Management.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Login.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.Registration.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.TaiKhoan.RePasss.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.Trang_chu.resources
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.GenerateResource.cache
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\RdlCompile.cache
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\RdlCompile.compiled
+D:\6_DMDaoCQHuyTQKhanh_LTNET\6_DMDaoCQHuyTQKhanh_LTNET\QLKhachSan\obj\x86\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
